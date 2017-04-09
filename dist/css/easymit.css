@@ -1,0 +1,56 @@
+@font-face
+{
+    font-family: AmericanTypewriteRegular;
+    src: url('../fonts/AmericanTypewriterRegular.ttf');
+    /*url('Gill_Sans_Ultra_Bold.eot'); /!* IE9+ *!/*/
+}
+
+@font-face
+{
+    font-family: AmericanTypewriteBold;
+    src: url('../fonts/AmericanTypewriterBold.ttf');
+    /*url('Gill_Sans_Ultra_Bold.eot'); /!* IE9+ *!/*/
+}
+
+.bg-easymit {
+    background-color: #00b8fb;
+}
+
+.logo-easy {
+    font-family: AmericanTypewriteRegular;
+    color: #009efc;
+    font-size: 24pt;
+}
+
+.logo-mit {
+    font-family: AmericanTypewriteBold;
+    color: #f94b42;
+    font-size: 24pt;
+    margin-left: -3pt;
+}
+
+.btn-mit {
+    background-color: #f94b42;
+    color: #ffffff;
+    font-family: AmericanTypewriteBold;
+    font-size: 20pt;
+    padding-left: 20pt;
+    padding-right: 20pt;
+}
+
+.input-group-mit {
+    background-color: #ffffff;
+    border-radius: 5pt;
+}
+
+.input-mit {
+    border: none;
+    font-size: 20pt;
+    color: #009efc;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: 39pt;
+}
+
+.ad-words {
+    height: 180pt;
+}

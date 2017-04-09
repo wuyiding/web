@@ -1,0 +1,31 @@
+#amap {
+    height: 400px;
+}
+
+#mini-map {
+    height: 300px;
+}
+
+#assignment-modal-body {
+    height:300px;
+    overflow:auto;
+}
+
+#todo-modal-body {
+    height:300px;
+    overflow:auto;
+}
+
+.delete-task {
+    color: #aaaaaa;
+}
+
+.delete-task a:hover {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.delete-task a:focus {
+    color: #ff0000;
+    font-weight: bold;
+}
